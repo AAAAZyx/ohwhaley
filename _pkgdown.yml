@@ -1,6 +1,6 @@
 url: https://aaaazyx.github.io/ohwhaley/
 template:
----
+(---
 output: github_document
 editor_options:
   chunk_output_type: console
@@ -49,5 +49,7 @@ Alternatively, you can supply your own phrase
 ```{r, customise}
 say("I'm beached as bro!!!")
 ```
+)
+
 bootstrap: 5
 
